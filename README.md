@@ -33,7 +33,9 @@ Show the bot creators tip address.
 ```+notify <on/off>```  
 Enable or disable to get mentioned by the bot.  
 ```+version | +v```  
-Get current bot and wallet information.  
+Get current bot and wallet information.
+```+chain```  
+Get current bot and wallet information. 
 
 ### ADMIN COMMANDS
 > ```+start / +stop```  
